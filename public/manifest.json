@@ -1,0 +1,22 @@
+
+{
+  "name": "Maya - Banglish AI Friend",
+  "short_name": "Maya",
+  "description": "Immersive Banglish chat with Maya.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0084FF",
+  "icons": [
+    {
+      "src": "https://api.dicebear.com/7.x/avataaars/svg?seed=Maya",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "https://api.dicebear.com/7.x/avataaars/svg?seed=Maya",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}

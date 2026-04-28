@@ -1,0 +1,6 @@
+{
+  "name": "Maya - Your Banglish AI Friend",
+  "description": "An immersive chat app featuring Maya, a personalized AI friend from Bangladesh who speaks in Banglish and understands your vibes.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": []
+}
